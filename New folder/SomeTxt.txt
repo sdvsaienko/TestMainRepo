@@ -4,3 +4,4 @@ text new
 someelse
 qwe
 asdfgh
+fix
